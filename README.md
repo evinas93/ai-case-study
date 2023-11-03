@@ -29,7 +29,7 @@ OpenAI is focused on addressing the challenges and risks associated with the dev
 * Who is the company's intended customer? Is there any information about the market size of this set of customers?
   
 OpenAI’s primary customer is aligned with benefiting humanity as a whole. While it may not have traditional customers in the commercial sense, their product’s intended beneficiaries are the global community and future generations. The company seeks to avoid AI that could harm humanity.
-The OpenAI platform was actively accessible in 163 countries, regions, and territories by the end of May 2023. As of 2022, the monthly active number of users on the platform was 21.1 million.
+The OpenAI platform was actively accessible in 163 countries, regions, and territories by the end of May 2023. As of 2022, the monthly active number of users on the platform was 21.1 million (Elad, 2023).
 OpenAI’s most popular application ChatGPT an advanced AI chatbot designed for generating humanlike text launched in 2022 and has been recorded to be the fastest-growing platform within 60 days. Gaining 100 million users in only 2 months of launching. As of October 2023, there are 180.5 million active users and crossed 10 billion all-time visits.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -101,7 +101,7 @@ OpenAI Wikipedia
 https://en.wikipedia.org/wiki/OpenAI
 OpenAI - Blog: Planning for AGI and beyond
 https://openai.com/blog/planning-for-agi-and-beyond
-OpenAI Statistics By Demographics, Products, Revenue and Growth
+Elad, B. (2023, August 13) OpenAI Statistics By Demographics, Products, Revenue and Growth
 https://www.enterpriseappstoday.com/stats/openai-statistics.html
 OpenAI: Pioneering the Path to Artificial General Intelligence
 https://www.linkedin.com/pulse/openai-pioneering-path-artificial-general-intelligence-ruma-das/
